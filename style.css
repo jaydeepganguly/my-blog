@@ -1,0 +1,78 @@
+.custom_nav{
+    font-size: small;
+    box-shadow: 2px 2px 2px rgba(0, 0, 0, 3);
+}
+.custom_nav>ul.dropdown-menu {
+    font-size: small;
+}
+.custom_divider{
+    height: 2px;
+    background: rgb(255,145,0);
+     background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(121,9,120,1) 36%, rgba(0,212,255,1) 100%);
+}
+.main-banner{
+    padding-top: 50px;
+    padding-bottom: 100px;
+    background-image: url(marijuana.jpeg);
+    background-size: cover;
+    color: white;
+}
+.features-holder{
+    padding: 40px;
+    margin: 20px;
+    box-shadow: 2px 2px 2px 8px blueviolet;
+    text-align: center;
+    background-color: rgb(rgb(204, 0, 255), rgb(128, 0, 117), rgb(0, 204, 255));
+    
+}
+.features-holder > h3{
+    font-size: 1.2em;
+}
+.features{
+    background-color: whitesmoke;
+}
+.online-courses , .classroom-training , .review-slider{
+    padding-top : 20px;
+    padding-bottom : 35px;
+}
+.online-courses-text-widget ,.classroomcourses-text-widget, .review-text-widget{
+    text-align: center;
+}
+.online-courses-text-widget  h2, .classroomcourses-text-widget h2, .review-text-widget h2{
+    font-size: 1.2em;
+}
+.online-courses-text-widget p, .classroomcourses-text-widget p, .review-text-widget p{
+    font-size: 14px;
+}
+.online-courses-card .card-title{
+    font-size: 1.2em;
+    line-height: 25px;
+
+}
+.review-slider{
+    background-color: gainsboro;
+}
+.online-courses-card , .review-text-widget{
+    padding: 20px;
+}
+.classroom-training{
+    background-color: whitesmoke;
+}
+.signup-form-sidebar  .card-title{
+  font-size: 1.2em;
+}
+.signup-form-sidebar .card-text{
+    font-size: 14px;
+}
+.course-list-item{
+    font-size: small;
+    padding-top: 20px;
+    color: black;
+}
+#review_slider_content li .card{
+    text-align: center;
+}
+#review_slider_content li .card img{
+    width: 50px;
+    margin-bottom: 25px;
+}
